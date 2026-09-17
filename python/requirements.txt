@@ -1,0 +1,4 @@
+numpy>=1.24
+torch>=2.0
+torchvision>=0.15
+pydicom>=2.3      # only needed to read DICOM input

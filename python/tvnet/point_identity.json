@@ -1,0 +1,10 @@
+{
+ "lateral_index": 1,
+ "septal_index": 0,
+ "tapse_mode": "single",
+ "tapse_point": 1,
+ "angular_fold": true,
+ "icc_form": "3,1",
+ "jitter_method": "movmean3",
+ "note": "Metric conventions resolved against the published Table 1. septal_index and lateral_index give the column pairs of the landmark array; TAPSE uses the lateral point alone."
+}
